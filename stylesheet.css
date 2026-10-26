@@ -1,6 +1,40 @@
-#red_square {
-    width: 100px;
-    height: 100px;
-    background-color: red;
-    border: 2px solid #000000;
+#void_main_display {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(238, 104, 238);
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    box-sizing: border-box;
+}
+#void_label {
+    width: 100%;
+    height: 15%;
+    background-color: rgb(198, 84, 198);
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    box-sizing: border-box;
+}
+#void_per_tick_label {
+    width: 100%;
+    height: 10%;
+    background-color: rgb(105, 47, 105);
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.void_upgrade {
+    width: 100%;
+    height: 25%;
+    background-color: rgb(101, 60, 101);
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    box-sizing: border-box;
 }
