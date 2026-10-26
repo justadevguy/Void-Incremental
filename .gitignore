@@ -1,0 +1,17 @@
+# OS-generated files (Trash files your computer makes automatically)
+.DS_Store
+Thumbs.db
+
+# IDE / Code Editor configurations (Prevents syncing your personal window layouts)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+
+# Local server or testing logs
+*.log
+npm-debug.log*
+
+# (Optional) If you ever use third-party libraries via npm later
+node_modules/
